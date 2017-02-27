@@ -10,3 +10,4 @@ SET Today=%yyyy%%mm%%dd%
 git commit -m %Today%
 git remote add origin https://github.com/shaileshpisat/test.git
 git push -u origin master
+
